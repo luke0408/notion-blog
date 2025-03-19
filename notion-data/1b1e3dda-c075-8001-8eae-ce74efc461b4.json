@@ -1,0 +1,4664 @@
+{
+  "object": "page",
+  "id": "1b1e3dda-c075-8001-8eae-ce74efc461b4",
+  "created_time": "2025-03-09T05:22:00.000Z",
+  "last_edited_time": "2025-03-12T13:01:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+  },
+  "cover": {
+    "type": "external",
+    "external": {
+      "url": "https://images.unsplash.com/photo-1478860409698-8707f313ee8b?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb"
+    }
+  },
+  "icon": {
+    "type": "external",
+    "external": {
+      "url": "https://www.notion.so/icons/pencil_yellow.svg"
+    }
+  },
+  "parent": {
+    "type": "database_id",
+    "database_id": "f952dd81-ce19-4730-b4e8-e318fc1086d7"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "summary": {
+      "id": "%3Fp%7DE",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "「프로그래머의 길, 멘토에게 묻다」",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "「프로그래머의 길, 멘토에게 묻다」",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 와 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 와 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "「나는 왜 이 일을 하는가?」",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "「나는 왜 이 일을 하는가?」",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 를 통해 꿈을 구체화해본 이야기",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 를 통해 꿈을 구체화해본 이야기",
+          "href": null
+        }
+      ]
+    },
+    "slug": {
+      "id": "D%5Dp%3D",
+      "type": "rich_text",
+      "rich_text": []
+    },
+    "category": {
+      "id": "HTs%3E",
+      "type": "select",
+      "select": {
+        "id": "d6d6709c-cc25-4697-81de-42bbdfd0be64",
+        "name": "Note",
+        "color": "yellow"
+      }
+    },
+    "tags": {
+      "id": "J_Wa",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "1766fb95-2210-47c1-9a2d-32448fa78ddb",
+          "name": "잡담",
+          "color": "pink"
+        }
+      ]
+    },
+    "author": {
+      "id": "Q%5E%5CT",
+      "type": "people",
+      "people": [
+        {
+          "object": "user",
+          "id": "2c286e0e-2081-44d9-852b-ebf7a255671c",
+          "name": "루카/최선규",
+          "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/95a58ea1-f462-4fac-a9ed-10e7140b81ce/luke-logo.jpeg",
+          "type": "person",
+          "person": {
+            "email": "zjvl324@gmail.com"
+          }
+        }
+      ]
+    },
+    "date": {
+      "id": "Tiqm",
+      "type": "date",
+      "date": {
+        "start": "2025-03-09",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "post_status": {
+      "id": "%5EqjU",
+      "type": "select",
+      "select": {
+        "id": "2a006195-c143-4d0e-a194-d7d1c1de5b92",
+        "name": "Public",
+        "color": "orange"
+      }
+    },
+    "write_status": {
+      "id": "aGBm",
+      "type": "select",
+      "select": {
+        "id": "db5ce5a2-2003-40a4-add3-851322b295ab",
+        "name": "Done",
+        "color": "green"
+      }
+    },
+    "thumbnail": {
+      "id": "lLsB",
+      "type": "files",
+      "files": []
+    },
+    "updatedAt": {
+      "id": "rHu%5D",
+      "type": "last_edited_time",
+      "last_edited_time": "2025-03-12T13:01:00.000Z"
+    },
+    "publish_site": {
+      "id": "xPU%3F",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "3ef0ad4e-43b8-4d27-af2f-818b75e575cc",
+          "name": "LinkedIn",
+          "color": "pink"
+        }
+      ]
+    },
+    "type": {
+      "id": "%7CQIC",
+      "type": "select",
+      "select": {
+        "id": "fd5205fb-62d5-44f7-8773-ad1ab7e2192f",
+        "name": "Post",
+        "color": "purple"
+      }
+    },
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "꿈을 찾기 위한 질문들",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "꿈을 찾기 위한 질문들",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/1b1e3ddac07580018eaece74efc461b4",
+  "public_url": "https://fascinated-carp-209.notion.site/1b1e3ddac07580018eaece74efc461b4",
+  "request_id": "72fafe2e-cceb-4475-8424-1a622f07768f",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8087-83c7-ca96eac3e0cd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T05:22:00.000Z",
+      "last_edited_time": "2025-03-09T05:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📌 본문",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📌 본문",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "gray_background"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80ee-9f67-f684705f0502",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T05:22:00.000Z",
+      "last_edited_time": "2025-03-09T05:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80b7-8385-efac722a180a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:05:00.000Z",
+      "last_edited_time": "2025-03-09T13:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이번 글은 제가 [프로그래머의 길, 멘토에게 묻다] 와 [나는 왜 이 일을 하는가?]를 읽고 제 삶에 적용해본 이야기를 해보고자 합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이번 글은 제가 [프로그래머의 길, 멘토에게 묻다] 와 [나는 왜 이 일을 하는가?]를 읽고 제 삶에 적용해본 이야기를 해보고자 합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8007-aa33-facd375ca8c7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:10:00.000Z",
+      "last_edited_time": "2025-03-09T13:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8078-b583-e2102676be6b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:10:00.000Z",
+      "last_edited_time": "2025-03-09T13:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "결과를 먼저 이야기하자면 일과 삶에 대한 명확한 비전(방향성)이 생겼습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "결과를 먼저 이야기하자면 일과 삶에 대한 명확한 비전(방향성)이 생겼습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8050-b548-dee94c7af4c5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:11:00.000Z",
+      "last_edited_time": "2025-03-09T13:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b1e3dda-c075-809d-bcdd-f6e67b005a93",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b1e3dda-c075-8050-b548-dee94c7af4c5"
+          },
+          "created_time": "2025-03-09T13:11:00.000Z",
+          "last_edited_time": "2025-03-09T13:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "quote",
+          "quote": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "꿈꾸게 하라.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "꿈꾸게 하라.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-809a-91fe-e8e1867fe87a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:11:00.000Z",
+      "last_edited_time": "2025-03-09T13:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8064-816f-c75d811e2efa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:09:00.000Z",
+      "last_edited_time": "2025-03-09T13:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "누군가를 꿈꾸게 하는 것, 열정을 되찾게 하는 것이 제가 나아가고자 하는 방향성입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "누군가를 꿈꾸게 하는 것, 열정을 되찾게 하는 것이 제가 나아가고자 하는 방향성입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8089-a024-f3c8c8f1b881",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:08:00.000Z",
+      "last_edited_time": "2025-03-09T13:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "개발을 시작한 이유",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "개발을 시작한 이유",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8087-bea3-ceaee2d3fab2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:07:00.000Z",
+      "last_edited_time": "2025-03-09T13:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "본격적인 이야기를 하기 전에 먼저 제가 왜 개발을 시작했는지 이야기를 해봐야 할 것 같네요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "본격적인 이야기를 하기 전에 먼저 제가 왜 개발을 시작했는지 이야기를 해봐야 할 것 같네요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80d2-a434-d75831b14010",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:13:00.000Z",
+      "last_edited_time": "2025-03-09T13:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8016-8864-c0aa4ac6adc6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:13:00.000Z",
+      "last_edited_time": "2025-03-09T13:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "저는 고등학교를 입학할 시절 부모님에게서 한 가지 미션을 받았습니다. 바로 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "저는 고등학교를 입학할 시절 부모님에게서 한 가지 미션을 받았습니다. 바로 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "하고싶은 일을 찾는 것",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하고싶은 일을 찾는 것",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이죠. 부모님은 “공부를 안해도 된다 대학교를 가기전까지 너가 하고싶은 일을 찾아라”라고 말씀 하셨습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이죠. 부모님은 “공부를 안해도 된다 대학교를 가기전까지 너가 하고싶은 일을 찾아라”라고 말씀 하셨습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8054-933e-eee6e22df8a1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:17:00.000Z",
+      "last_edited_time": "2025-03-09T13:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8016-a8dc-cd29869cf509",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:17:00.000Z",
+      "last_edited_time": "2025-03-09T13:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그 말씀에 따라 로봇 개발 동아리를 들어가 산업 디자인을 개인적으로 공부하기 시작했습니다. 사회 봉사 계열에서 일을 하시는 부모님을 따라 “",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그 말씀에 따라 로봇 개발 동아리를 들어가 산업 디자인을 개인적으로 공부하기 시작했습니다. 사회 봉사 계열에서 일을 하시는 부모님을 따라 “",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "소셜 임팩트”",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "소셜 임팩트”",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "에 관심이 생겨 찾다보니 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "에 관심이 생겨 찾다보니 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "“적정 기술”",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“적정 기술”",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 이라는 키워드가 너무나도 매력적으로 다가왔거든요. 그리고 저의 모교 로봇 개발 동아리엔 3D 프린터와 레이저 커팅기 등을 갖춘 메이커 스페이스가 있었죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 이라는 키워드가 너무나도 매력적으로 다가왔거든요. 그리고 저의 모교 로봇 개발 동아리엔 3D 프린터와 레이저 커팅기 등을 갖춘 메이커 스페이스가 있었죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80f6-9f56-e83e14a3ce68",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:22:00.000Z",
+      "last_edited_time": "2025-03-09T13:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80b2-8708-fad6cce97f2b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:22:00.000Z",
+      "last_edited_time": "2025-03-09T13:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "하지만, 디자인은 너무나도 생각보다 힘든 일이었습니다. 그래서 자연스럽게 바로 옆에 있던 아두이노와 파이썬에 손을 대기 시작했죠. 그렇게 처음 프로그래밍이라는 개념에 손을 대기 시작하고 대학교에 진학해 22년도부터 본격적으로 개발 공부를 시작했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하지만, 디자인은 너무나도 생각보다 힘든 일이었습니다. 그래서 자연스럽게 바로 옆에 있던 아두이노와 파이썬에 손을 대기 시작했죠. 그렇게 처음 프로그래밍이라는 개념에 손을 대기 시작하고 대학교에 진학해 22년도부터 본격적으로 개발 공부를 시작했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80b2-9a03-f7d7ec19fdbb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:25:00.000Z",
+      "last_edited_time": "2025-03-09T13:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-802b-9d4e-efe805518221",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:25:00.000Z",
+      "last_edited_time": "2025-03-09T13:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "지속적인 동기부여",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "지속적인 동기부여",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80bc-9a47-fd316f9b7a51",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:25:00.000Z",
+      "last_edited_time": "2025-03-09T13:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "22년도에 처음 개발이라는 길에 들어서서 지금까지 상황이 허락한다면 하루에 10시간 가까이 컴퓨터와 대화하는 시간을 보냈던거 같습니다. 누군가는 저에게 재능이 있다고 해주기도 하고 괴물이라는 말도 들었던 적이 있습니다. 하지만, 저는 오히려 “하루에 10시간씩 하고 방학엔 툭하면 코딩 때문에 밤새고 개발 관련 활동을 4-5개씩 병행하는데 이정도면 느린거 아닌가…?” 라는 생각을 했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "22년도에 처음 개발이라는 길에 들어서서 지금까지 상황이 허락한다면 하루에 10시간 가까이 컴퓨터와 대화하는 시간을 보냈던거 같습니다. 누군가는 저에게 재능이 있다고 해주기도 하고 괴물이라는 말도 들었던 적이 있습니다. 하지만, 저는 오히려 “하루에 10시간씩 하고 방학엔 툭하면 코딩 때문에 밤새고 개발 관련 활동을 4-5개씩 병행하는데 이정도면 느린거 아닌가…?” 라는 생각을 했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-801c-b579-e860b8245e13",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:28:00.000Z",
+      "last_edited_time": "2025-03-09T13:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8055-a653-eaffbf8d1741",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:28:00.000Z",
+      "last_edited_time": "2025-03-09T13:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그렇게 군대를 와 [나는 왜 이 일을 하는가]를 통해 처음 “내가 어떻게 그럴 수 있었지?” 라는 질문을 던져보게 되었죠. 사람은 이유가 없이 하루에 10시간 14시간씩 하나에 미쳐있지 못하니까요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그렇게 군대를 와 [나는 왜 이 일을 하는가]를 통해 처음 “내가 어떻게 그럴 수 있었지?” 라는 질문을 던져보게 되었죠. 사람은 이유가 없이 하루에 10시간 14시간씩 하나에 미쳐있지 못하니까요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80f3-858a-cee23c2fa817",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:32:00.000Z",
+      "last_edited_time": "2025-03-09T13:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80a6-b064-eb8c11a1142e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:32:00.000Z",
+      "last_edited_time": "2025-03-09T13:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“지속적인 동기부여”는 [프로그래머의 길, 멘토에게 묻다]에 나오는 한 가지 패턴입니다. 저는 제가 왜 그렇게까지 할 수 있었는지 알기 위해 해당 패턴을 사용했죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“지속적인 동기부여”는 [프로그래머의 길, 멘토에게 묻다]에 나오는 한 가지 패턴입니다. 저는 제가 왜 그렇게까지 할 수 있었는지 알기 위해 해당 패턴을 사용했죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8028-859f-d0ddf56a9784",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:33:00.000Z",
+      "last_edited_time": "2025-03-09T13:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-802b-a12c-db0f4f120f5f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:33:00.000Z",
+      "last_edited_time": "2025-03-09T13:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "실천 방안",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "실천 방안",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8099-ac81-cf27b20df96e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:33:00.000Z",
+      "last_edited_time": "2025-03-09T13:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "다음은 실제로 책에 있는 실천 방안을 제가 실행한 걸 글로 옮긴 것 입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "다음은 실제로 책에 있는 실천 방안을 제가 실행한 걸 글로 옮긴 것 입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80b4-9643-f2617312abe1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:37:00.000Z",
+      "last_edited_time": "2025-03-09T13:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80f5-a29e-dc99234f1d4a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:34:00.000Z",
+      "last_edited_time": "2025-03-09T13:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "책의 방식:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "책의 방식:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-800b-86a9-ccab79717f6f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:34:00.000Z",
+      "last_edited_time": "2025-03-09T13:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "당신에게 동기부여 되는 일을 최소한 15가지 이상 적어보아라.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "당신에게 동기부여 되는 일을 최소한 15가지 이상 적어보아라.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80f5-99c0-e29fedb3ae2a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:36:00.000Z",
+      "last_edited_time": "2025-03-09T13:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "잠시 뒤에 5가지를 더 적어보아라.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "잠시 뒤에 5가지를 더 적어보아라.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80ac-9f13-d28de9284d83",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:36:00.000Z",
+      "last_edited_time": "2025-03-09T13:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그중 자발적인 동기로 적은 것과 타인을 의식해서 적은 것을 분리해라.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그중 자발적인 동기로 적은 것과 타인을 의식해서 적은 것을 분리해라.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80f0-91ab-f5b80f8e67b8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:38:00.000Z",
+      "last_edited_time": "2025-03-09T13:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "모든 것을 지우고 당신의 동기부여에 가장 중요한 일 5가지를 적어라. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "모든 것을 지우고 당신의 동기부여에 가장 중요한 일 5가지를 적어라. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-803d-971d-dbe9ffe90b64",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:39:00.000Z",
+      "last_edited_time": "2025-03-09T13:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그 5가지를 잘 보관하며 힘든 시기에 꺼내보라.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그 5가지를 잘 보관하며 힘든 시기에 꺼내보라.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80c8-bb9b-c22a677e3958",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:40:00.000Z",
+      "last_edited_time": "2025-03-09T13:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80e0-b26b-e5491be49075",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:40:00.000Z",
+      "last_edited_time": "2025-03-09T13:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "나의 방식:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "나의 방식:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80a2-8fb6-dcb6188443b5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:40:00.000Z",
+      "last_edited_time": "2025-03-09T13:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "나에게 동기부여를 주는 15가지의 일:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "나에게 동기부여를 주는 15가지의 일:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b1e3dda-c075-8001-8000-d245d5d093ac",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b1e3dda-c075-80a2-8fb6-dcb6188443b5"
+          },
+          "created_time": "2025-03-09T13:41:00.000Z",
+          "last_edited_time": "2025-03-09T13:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "타인의 인정, 개발적 성장, 정신적 성장, 독서, 어린아이들을 돌보는 것, 봉사, 지식 공유, 커피 한 잔의 여유, 타인의 이야기를 듣는 것, 교육적인 문제를 고민하는 것, 의료계의 문제를 고민하는 것, 노래를 듣는 것, 이슈를 해결할 때, 사랑하는 사람과 시간을 보내는 것, 타인의 성장을 보는 것",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "타인의 인정, 개발적 성장, 정신적 성장, 독서, 어린아이들을 돌보는 것, 봉사, 지식 공유, 커피 한 잔의 여유, 타인의 이야기를 듣는 것, 교육적인 문제를 고민하는 것, 의료계의 문제를 고민하는 것, 노래를 듣는 것, 이슈를 해결할 때, 사랑하는 사람과 시간을 보내는 것, 타인의 성장을 보는 것",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8006-8d2e-c2af88ef0511",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:47:00.000Z",
+      "last_edited_time": "2025-03-09T13:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "리스트를 키워드로 분류해보자:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "리스트를 키워드로 분류해보자:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b1e3dda-c075-8005-8583-ed4c8a6f926c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b1e3dda-c075-8006-8d2e-c2af88ef0511"
+          },
+          "created_time": "2025-03-09T13:48:00.000Z",
+          "last_edited_time": "2025-03-09T13:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "성장: 개발, 정신, 독서, 인정, 듣기, 이슈 해결, 타인의 성장",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "성장: 개발, 정신, 독서, 인정, 듣기, 이슈 해결, 타인의 성장",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b1e3dda-c075-8019-a193-f6b7f542e9fc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b1e3dda-c075-8006-8d2e-c2af88ef0511"
+          },
+          "created_time": "2025-03-09T13:49:00.000Z",
+          "last_edited_time": "2025-03-09T14:00:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "사회적 기여: 아이들, 교육 문제, 의료 문제",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "사회적 기여: 아이들, 교육 문제, 의료 문제",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b1e3dda-c075-80b1-9d48-dbeac1b2c44e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b1e3dda-c075-8006-8d2e-c2af88ef0511"
+          },
+          "created_time": "2025-03-09T13:49:00.000Z",
+          "last_edited_time": "2025-03-09T14:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "커뮤니케이션: 지식 공유, 이야기 듣기, 사랑",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "커뮤니케이션: 지식 공유, 이야기 듣기, 사랑",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "1b1e3dda-c075-8001-b5c3-e9ea4f82d5ee",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b1e3dda-c075-8006-8d2e-c2af88ef0511"
+          },
+          "created_time": "2025-03-09T13:59:00.000Z",
+          "last_edited_time": "2025-03-09T13:59:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "커피",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "커피",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8033-a306-c476c0861384",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:50:00.000Z",
+      "last_edited_time": "2025-03-09T13:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "분류한 키워드 중 중요도 낮은 걸 지우자:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "분류한 키워드 중 중요도 낮은 걸 지우자:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b1e3dda-c075-80b0-adaa-d5350da70a1c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b1e3dda-c075-8033-a306-c476c0861384"
+          },
+          "created_time": "2025-03-09T13:52:00.000Z",
+          "last_edited_time": "2025-03-09T13:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "남은 키워드: 성장, 커뮤니케이션, 사회적 기여",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "남은 키워드: 성장, 커뮤니케이션, 사회적 기여",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8093-83a8-e1aed4d03e6c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:55:00.000Z",
+      "last_edited_time": "2025-03-09T14:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "내용을 다시 쓰자:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "내용을 다시 쓰자:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b1e3dda-c075-8050-978e-e4a0a251b2cb",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b1e3dda-c075-8093-83a8-e1aed4d03e6c"
+          },
+          "created_time": "2025-03-09T13:56:00.000Z",
+          "last_edited_time": "2025-03-09T14:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "성장, 문제 해결(이슈 해결 및 사회적 기여를 합침), 커뮤니케이션, 인정",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "성장, 문제 해결(이슈 해결 및 사회적 기여를 합침), 커뮤니케이션, 인정",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80c9-9ff0-dd8b8c905a07",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:03:00.000Z",
+      "last_edited_time": "2025-03-09T14:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-800b-a876-ff177da722d2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:03:00.000Z",
+      "last_edited_time": "2025-03-09T14:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이렇게 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이렇게 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "성장",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "성장",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "문제 해결",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "문제 해결",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "커뮤니케이션",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "커뮤니케이션",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "인정",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "인정",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이라는 4가지 요소를 선별했습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이라는 4가지 요소를 선별했습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-803a-9549-e5163bd633b5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:16:00.000Z",
+      "last_edited_time": "2025-03-09T14:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80fa-afb4-cd21fca81b71",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:05:00.000Z",
+      "last_edited_time": "2025-03-09T14:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "무엇이 중요한가?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "무엇이 중요한가?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8039-9684-da6516437a9e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:05:00.000Z",
+      "last_edited_time": "2025-03-09T14:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "[나는 왜 이 일을 하는가]의 저자 사이먼 사이넥은 골든 사이클이라는 이론을 제시합니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "[나는 왜 이 일을 하는가]의 저자 사이먼 사이넥은 골든 사이클이라는 이론을 제시합니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8014-9464-da3e31e8ac23",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:10:00.000Z",
+      "last_edited_time": "2025-03-09T14:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {},
+      "blocks": [
+        {
+          "object": "block",
+          "id": "1b1e3dda-c075-80cf-82e8-c2fff13ad4f7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b1e3dda-c075-8014-9464-da3e31e8ac23"
+          },
+          "created_time": "2025-03-09T14:10:00.000Z",
+          "last_edited_time": "2025-03-09T14:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1b1e3dda-c075-8089-964b-e80bc4a8202a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b1e3dda-c075-80cf-82e8-c2fff13ad4f7"
+              },
+              "created_time": "2025-03-09T14:09:00.000Z",
+              "last_edited_time": "2025-03-09T14:14:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Simon Sinek의 Golden Circle",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Simon Sinek의 Golden Circle",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/notion-data/1b1e3dda-c075-8001-8eae-ce74efc461b4/image_1.png",
+                  "expiry_time": "2025-03-19T15:51:06.357Z"
+                }
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "1b1e3dda-c075-8029-b886-f9684842876d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b1e3dda-c075-80cf-82e8-c2fff13ad4f7"
+              },
+              "created_time": "2025-03-09T14:14:00.000Z",
+              "last_edited_time": "2025-03-09T14:14:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "1b1e3dda-c075-806f-927b-f2d95e7a6210",
+          "parent": {
+            "type": "block_id",
+            "block_id": "1b1e3dda-c075-8014-9464-da3e31e8ac23"
+          },
+          "created_time": "2025-03-09T14:10:00.000Z",
+          "last_edited_time": "2025-03-09T14:13:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "column",
+          "column": {},
+          "blocks": [
+            {
+              "object": "block",
+              "id": "1b1e3dda-c075-80fa-a70b-ebd759876c7c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b1e3dda-c075-806f-927b-f2d95e7a6210"
+              },
+              "created_time": "2025-03-09T14:10:00.000Z",
+              "last_edited_time": "2025-03-09T14:13:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+              },
+              "has_children": true,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Why",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Why",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": [
+                {
+                  "object": "block",
+                  "id": "1b1e3dda-c075-800d-be91-f1b3eeb110cd",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "1b1e3dda-c075-80fa-a70b-ebd759876c7c"
+                  },
+                  "created_time": "2025-03-09T14:13:00.000Z",
+                  "last_edited_time": "2025-03-09T14:13:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "조직이나 개인이 ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "조직이나 개인이 ",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "존재하는 이유, 목적, 신념",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "존재하는 이유, 목적, 신념",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "을 의미합니다.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "을 의미합니다.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "blocks": []
+                },
+                {
+                  "object": "block",
+                  "id": "1b1e3dda-c075-80f2-9600-e0ef129f9e63",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "1b1e3dda-c075-80fa-a70b-ebd759876c7c"
+                  },
+                  "created_time": "2025-03-09T14:13:00.000Z",
+                  "last_edited_time": "2025-03-09T14:13:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "단순히 ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "단순히 ",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "돈을 벌기 위해서",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "돈을 벌기 위해서",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "가 아니라, 더 깊은 ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "가 아니라, 더 깊은 ",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "동기와 가치를 기반으로 행동해야 한다",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "동기와 가치를 기반으로 행동해야 한다",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "는 개념을 강조합니다.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "는 개념을 강조합니다.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "blocks": []
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "1b1e3dda-c075-8011-8189-f4b28600674b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b1e3dda-c075-806f-927b-f2d95e7a6210"
+              },
+              "created_time": "2025-03-09T14:10:00.000Z",
+              "last_edited_time": "2025-03-09T14:13:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+              },
+              "has_children": true,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "How",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "How",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": [
+                {
+                  "object": "block",
+                  "id": "1b1e3dda-c075-80f6-b60c-d3d3a790592e",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "1b1e3dda-c075-8011-8189-f4b28600674b"
+                  },
+                  "created_time": "2025-03-09T14:13:00.000Z",
+                  "last_edited_time": "2025-03-09T14:13:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "WHY를 실현하기 위한 과정이나 방법론",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "WHY를 실현하기 위한 과정이나 방법론",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "을 의미합니다.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "을 의미합니다.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "blocks": []
+                },
+                {
+                  "object": "block",
+                  "id": "1b1e3dda-c075-80bd-8302-ccf6338959c2",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "1b1e3dda-c075-8011-8189-f4b28600674b"
+                  },
+                  "created_time": "2025-03-09T14:13:00.000Z",
+                  "last_edited_time": "2025-03-09T14:13:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "차별화된 전략, 독창적인 접근 방식, 경쟁 우위를 설명하는 부분입니다.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "차별화된 전략, 독창적인 접근 방식, 경쟁 우위를 설명하는 부분입니다.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "blocks": []
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "1b1e3dda-c075-803f-99be-ccbdeac10e88",
+              "parent": {
+                "type": "block_id",
+                "block_id": "1b1e3dda-c075-806f-927b-f2d95e7a6210"
+              },
+              "created_time": "2025-03-09T14:10:00.000Z",
+              "last_edited_time": "2025-03-09T14:13:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+              },
+              "has_children": true,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "What",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "What",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": [
+                {
+                  "object": "block",
+                  "id": "1b1e3dda-c075-8048-a455-cef0d411c668",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "1b1e3dda-c075-803f-99be-ccbdeac10e88"
+                  },
+                  "created_time": "2025-03-09T14:13:00.000Z",
+                  "last_edited_time": "2025-03-09T14:13:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "가장 바깥쪽 원이며, ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "가장 바깥쪽 원이며, ",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "구체적으로 무엇을 하는지(제품, 서비스, 결과물)",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "구체적으로 무엇을 하는지(제품, 서비스, 결과물)",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "를 의미합니다.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "를 의미합니다.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "blocks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80e9-97d3-e0d955593398",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:14:00.000Z",
+      "last_edited_time": "2025-03-09T14:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8018-a1c9-d1be8c04c792",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:14:00.000Z",
+      "last_edited_time": "2025-03-09T14:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 이론을 보면서 제가 선택한 4가지 요소 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 이론을 보면서 제가 선택한 4가지 요소 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "성장",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "성장",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "문제 해결",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "문제 해결",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "커뮤니케이션",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "커뮤니케이션",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "인정",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "인정",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "은 How와 What의 집합이라 느껴졌습니다. 확실한 Why를 찾을 수 없었죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "은 How와 What의 집합이라 느껴졌습니다. 확실한 Why를 찾을 수 없었죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80c8-879d-dd6a5b9b5506",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:16:00.000Z",
+      "last_edited_time": "2025-03-09T14:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8019-8af0-d2b15e2e821f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:16:00.000Z",
+      "last_edited_time": "2025-03-09T14:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "왜 성장이 필요한가? 성장으로 무엇을 하고 싶은가?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "왜 성장이 필요한가? 성장으로 무엇을 하고 싶은가?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8011-9de3-c7ba702a118b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:17:00.000Z",
+      "last_edited_time": "2025-03-09T14:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "4가지 요소를 보면서 모든 요소의 시작은 저의 성장을 기반하고 있다고 느꼈습니다. 때문에 다음과 같은 문답을 통해 성장이라는 개념을 더욱 발전시켜 보았죠.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "4가지 요소를 보면서 모든 요소의 시작은 저의 성장을 기반하고 있다고 느꼈습니다. 때문에 다음과 같은 문답을 통해 성장이라는 개념을 더욱 발전시켜 보았죠.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-804f-925d-f6c3821d3939",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:18:00.000Z",
+      "last_edited_time": "2025-03-09T14:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-808c-b443-eb1d66ebf8d8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:18:00.000Z",
+      "last_edited_time": "2025-03-09T14:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Q. 나에게 성장이란 무엇인가?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Q. 나에게 성장이란 무엇인가?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-806f-9ef6-d7c9b87bfa4e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:18:00.000Z",
+      "last_edited_time": "2025-03-09T14:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A. 말 그대로 나 스스로의 성장을 의미한다. 분류를 하자면 하드 스킬, 소프트 스킬 그리고 정신적인 부분으로 나눌 수 있을 것이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A. 말 그대로 나 스스로의 성장을 의미한다. 분류를 하자면 하드 스킬, 소프트 스킬 그리고 정신적인 부분으로 나눌 수 있을 것이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8029-9243-fb4aab0c0eda",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:19:00.000Z",
+      "last_edited_time": "2025-03-09T14:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80f1-942d-d747f88e938a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:19:00.000Z",
+      "last_edited_time": "2025-03-09T14:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Q. 성장의 결과로 얻어내고 싶은 게 무엇인가?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Q. 성장의 결과로 얻어내고 싶은 게 무엇인가?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8003-98df-c8408ca89488",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:20:00.000Z",
+      "last_edited_time": "2025-03-09T14:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A. 타인에게 영향을 끼치고 싶다. 타인의 문제에 기여하고, 성장을 돕는 등 타인의 긍정적인 영향을 끼치고 싶다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A. 타인에게 영향을 끼치고 싶다. 타인의 문제에 기여하고, 성장을 돕는 등 타인의 긍정적인 영향을 끼치고 싶다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-801c-98ed-edfa211769eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:21:00.000Z",
+      "last_edited_time": "2025-03-09T14:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8032-bdbe-ee5344ad866f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:21:00.000Z",
+      "last_edited_time": "2025-03-09T14:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Q. 영향이란 무엇인가?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Q. 영향이란 무엇인가?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-804b-ae2b-c99a751f69a6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:21:00.000Z",
+      "last_edited_time": "2025-03-09T14:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A. 사람의 삶을 변화시키고 싶은 것 같다. 가능하면 긍정적인 방향으로 말이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A. 사람의 삶을 변화시키고 싶은 것 같다. 가능하면 긍정적인 방향으로 말이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8004-8398-c396e151f79e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:22:00.000Z",
+      "last_edited_time": "2025-03-09T14:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-806e-8a2c-fe048aae08fe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:22:00.000Z",
+      "last_edited_time": "2025-03-09T14:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Q. 삶을 긍정적으로 변화 시킨다는 말의 구체적인 의미는 무엇인가?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Q. 삶을 긍정적으로 변화 시킨다는 말의 구체적인 의미는 무엇인가?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8071-999e-e500070b9793",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:23:00.000Z",
+      "last_edited_time": "2025-03-09T14:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A. 먼저 삶에 대해 이야기 하면 아무도 그 끝을 모르는 거대한 바다 위 항로라고 생각한다. 항로라는 것을 지도 위에 다양한 방점들이 이어진 길이라고 하자면 각 방점은 성공, 실패, 만남과 헤어짐 등을 나타낼 것이고 이전 방점에서의 선택이 다음 방점으로 이어지는 시스템일 것이다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A. 먼저 삶에 대해 이야기 하면 아무도 그 끝을 모르는 거대한 바다 위 항로라고 생각한다. 항로라는 것을 지도 위에 다양한 방점들이 이어진 길이라고 하자면 각 방점은 성공, 실패, 만남과 헤어짐 등을 나타낼 것이고 이전 방점에서의 선택이 다음 방점으로 이어지는 시스템일 것이다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8087-92d2-cdf548db1a70",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:29:00.000Z",
+      "last_edited_time": "2025-03-09T14:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그러니 매 순간 바다 위에서 다양한 분기점이 선택을 강요하는 삶에서 다음 방점을 선택하는데 영향을 주었다면 그것은 내가 그 삶에 변화를 준 것일 것이다. 그런 변화를 주고싶다. 흘러가는 물결을 따라 가는 것이 선택지 중 하나라면, 그 사람에게 노를 쥐어주고 길을 직접 선택하도록 영감과 열정을 주는 것은 긍정적인 변화일 것이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그러니 매 순간 바다 위에서 다양한 분기점이 선택을 강요하는 삶에서 다음 방점을 선택하는데 영향을 주었다면 그것은 내가 그 삶에 변화를 준 것일 것이다. 그런 변화를 주고싶다. 흘러가는 물결을 따라 가는 것이 선택지 중 하나라면, 그 사람에게 노를 쥐어주고 길을 직접 선택하도록 영감과 열정을 주는 것은 긍정적인 변화일 것이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80eb-98b5-f04ba9e59242",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:31:00.000Z",
+      "last_edited_time": "2025-03-09T14:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8068-98a6-ebe53ada8e18",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:31:00.000Z",
+      "last_edited_time": "2025-03-09T14:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Q. 타인에게 영감과 열정을 줄 수 있는 일이 무엇이 있을까?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Q. 타인에게 영감과 열정을 줄 수 있는 일이 무엇이 있을까?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80e9-80af-d660fdcdaaea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:31:00.000Z",
+      "last_edited_time": "2025-03-09T14:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A. 사이먼 사이넥의 말을 빌리면 ‘why’는 신념이고 ‘how’는 신념을 실현하기 위한 행동이며 그 결과 만들어진 것이 ‘what’이다. 즉, 다음 방점을 선택한다는 행동의 결과가 있기 위해서는 ‘why’라는 신념을 주어야 한다. 또는, 최소한 그 길을 갈 수 있도록 암초나 해초를 해쳐나갈 지식이나 도구를 주어야한다. ⇒ 신념을 주거나 그 길을 갈 수 있도록 도움을 주거나",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A. 사이먼 사이넥의 말을 빌리면 ‘why’는 신념이고 ‘how’는 신념을 실현하기 위한 행동이며 그 결과 만들어진 것이 ‘what’이다. 즉, 다음 방점을 선택한다는 행동의 결과가 있기 위해서는 ‘why’라는 신념을 주어야 한다. 또는, 최소한 그 길을 갈 수 있도록 암초나 해초를 해쳐나갈 지식이나 도구를 주어야한다. ⇒ 신념을 주거나 그 길을 갈 수 있도록 도움을 주거나",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80b2-8225-f3c57765c9fe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:37:00.000Z",
+      "last_edited_time": "2025-03-09T14:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80a0-b157-e72d71f9b02d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:37:00.000Z",
+      "last_edited_time": "2025-03-09T14:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "꿈꾸게 하라",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "꿈꾸게 하라",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80cc-a780-d344eaa34865",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:37:00.000Z",
+      "last_edited_time": "2025-03-09T14:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " 저는 이 모든 질문의 답변을 처음에 말한 것처럼 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 저는 이 모든 질문의 답변을 처음에 말한 것처럼 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "“꿈꾸게 하라”",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“꿈꾸게 하라”",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 짧은 문장에 눌러 담고자 합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 짧은 문장에 눌러 담고자 합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8087-a30e-ef856b5da8dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:38:00.000Z",
+      "last_edited_time": "2025-03-09T14:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8050-a0a9-d51497fa1900",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:38:00.000Z",
+      "last_edited_time": "2025-03-09T14:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "꿈이 없는 사람들에게는 꿈을 찾을 수 있게 이유를 찾을 수 있게 옆에서 도울 것입니다. 그리고 지금 제가 가장 중요하게 생각하는 것은 꿈꾸는 사람들을 좌절하지 않게 하는 것 입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "꿈이 없는 사람들에게는 꿈을 찾을 수 있게 이유를 찾을 수 있게 옆에서 도울 것입니다. 그리고 지금 제가 가장 중요하게 생각하는 것은 꿈꾸는 사람들을 좌절하지 않게 하는 것 입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8006-86e7-f39663509b63",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:40:00.000Z",
+      "last_edited_time": "2025-03-09T14:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-807c-b67c-e426170b73de",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:40:00.000Z",
+      "last_edited_time": "2025-03-09T14:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "자신의 상황(금전적, 의학적, 기술적 문제 등) 때문에 꿈을 향해 나아가지 못하는 사람들이 너무 많습니다. 돌이켜보면 저는 항상 그런 문제를 해결하기 위해 프로젝트를 할 때 가장 행복했던 것 같습니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "자신의 상황(금전적, 의학적, 기술적 문제 등) 때문에 꿈을 향해 나아가지 못하는 사람들이 너무 많습니다. 돌이켜보면 저는 항상 그런 문제를 해결하기 위해 프로젝트를 할 때 가장 행복했던 것 같습니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8054-8214-c9db2e3a0a78",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:44:00.000Z",
+      "last_edited_time": "2025-03-09T14:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8009-bc75-dd03182b6be6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T14:44:00.000Z",
+      "last_edited_time": "2025-03-09T14:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "긴 글을 모두 읽어주신 분들에게 감사드리며, 이런 저와 이야기 하고 싶으신 분들은 언제나 환영입니다! 편하게 말 걸어주세요. ㅎㅎ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "긴 글을 모두 읽어주신 분들에게 감사드리며, 이런 저와 이야기 하고 싶으신 분들은 언제나 환영입니다! 편하게 말 걸어주세요. ㅎㅎ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8009-96b9-e10dd8f3b594",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T05:22:00.000Z",
+      "last_edited_time": "2025-03-09T05:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📰 레퍼런스",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📰 레퍼런스",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "gray_background"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-80fa-8070-d2854d44b249",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T05:22:00.000Z",
+      "last_edited_time": "2025-03-09T05:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8063-92b2-c09541712850",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:07:00.000Z",
+      "last_edited_time": "2025-03-09T13:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bookmark",
+      "bookmark": {
+        "caption": [],
+        "url": "https://www.yes24.com/Product/Goods/4045732"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1b1e3dda-c075-8046-95c1-ebdf6c4731e1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "1b1e3dda-c075-8001-8eae-ce74efc461b4"
+      },
+      "created_time": "2025-03-09T13:08:00.000Z",
+      "last_edited_time": "2025-03-09T13:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2c286e0e-2081-44d9-852b-ebf7a255671c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bookmark",
+      "bookmark": {
+        "caption": [],
+        "url": "https://www.yes24.com/Product/Goods/8672383"
+      },
+      "blocks": []
+    }
+  ]
+}
